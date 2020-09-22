@@ -1,0 +1,30 @@
+.statsRight {
+    cursor: pointer;
+    height: 54vh;
+    flex: 40%;
+    padding-right: 15px;
+    padding-left: 5px;
+    text-align: center;
+}
+
+h6 {
+    font-size: 18px;
+    font-weight: 700;
+    margin-top: 5px;
+    margin-bottom: 1px;
+}
+  
+.statsRight__warn {
+    font-size: small;
+    margin-bottom: 4px;
+    color: tomato;
+}
+
+@media (max-width: 990px) {
+    .statsRight {
+      flex: 100%;
+      margin-bottom: 10px;
+      height: 38vh;
+      margin-right: 0;
+    }
+  }

@@ -1,0 +1,45 @@
+.statsLeft {
+    cursor: default;
+    height: 54vh;
+    flex: 15%;
+    margin-right: 15px;
+}
+
+.statsLeft div {
+    text-align: center;
+    font-size: 20px;
+    margin-top: 10px;
+    font-weight: 700;
+    padding-right: 5px;
+    padding-left: 5px;
+}
+
+.statsLeft__1 {
+    color: tomato;
+}
+ 
+.statsLeft__2 {
+    color: lawngreen;
+}
+
+.statsLeft__3 {
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+@media (max-width: 990px) {
+    .statsLeft {
+      flex: 30%;
+      height: 47vh;
+      margin-bottom: 10px;
+    }
+
+    .statsLeft div {
+        text-align: center;
+        font-size: 15px;
+        margin-top: 3px;
+        font-weight: 300;
+    }
+  }

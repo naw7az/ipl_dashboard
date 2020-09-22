@@ -1,0 +1,80 @@
+.statsMid {
+    cursor: default;
+    height: 54vh;
+    flex: 15%;
+    margin-right: 15px;
+}
+
+.statsMid div :not(:last-child) {
+    text-align: center;
+    margin-top: 10px;
+    font-weight: 700;
+    padding-right: 5px;
+    padding-left: 5px;
+}
+
+.statsMid__1 {
+    font-size: 20px;
+    color: tomato;
+}
+ 
+.statsMid__2 {
+    font-size: 20px;
+    color: lawngreen;
+}
+
+.statsMid__3 {
+    font-size: 20px;
+    color: gray;
+}
+
+.statsMid__4 {
+    font-size: 20px;
+    color: salmon;
+}
+
+.statsMid__5 {
+    font-size: 20px;
+    color: rgb(172, 26, 58);
+}
+
+.statsMid__6 {
+    font-size: 20px;
+    color: rgba(54, 162, 235);
+}
+
+.statsMid__7 {
+    font-size: 20px;
+    color: rgba(96, 152, 200, 0.8);
+}
+
+.statsMid__warn {
+    text-align: center;
+    font-size: 12px;
+    color: tomato;
+    padding-right: 2px;
+    padding-left: 2px;
+    margin-top: 25px;
+}
+
+
+@media (max-width: 990px) {
+    .statsMid {
+      flex: 30%;
+      margin-bottom: 10px;
+      margin-right: 0;
+      height: 47vh;
+    }
+
+    .statsMid div :not(:last-child)  {
+        font-size: 12px;
+        margin-top: 3px;
+        font-weight: 400;
+        padding-right: 4px;
+        padding-left: 4px;
+    }
+
+    .statsMid__warn {
+        font-size: 10px;
+    }
+  }
