@@ -1,4 +1,4 @@
-#### The Deployed Version of the app is [here](https://ipl-dash.web.app/).
+### The Deployed Version of the app is [here](https://ipl-dash.web.app/).
 
 ### General Setup
 
