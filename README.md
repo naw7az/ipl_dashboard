@@ -1,5 +1,23 @@
 The Deployed Version of the app is [here](https://ipl-dash.web.app/).
 
+### General Setup
+
+1. **Fork and clone the project**.
+
+   - If you are fairly new to Github or Git, please checkout the [**official Github Guide!**](https://guides.github.com/activities/forking/)
+
+2. **Use your favorite text editor**
+
+   - Personally I use VScode. You are welcome to use any of your preferences!
+
+3. **From the root directory of the project, install dependencies with npm**
+
+4. ```javascript
+   npm install    // install dependencies for project
+   ```
+5. Play with any of the available script given below.
+
+
 ## Available Scripts
 
 In the project directory, you can run:
