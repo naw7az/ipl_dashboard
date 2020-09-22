@@ -15,7 +15,7 @@ The Deployed Version of the app is [here](https://ipl-dash.web.app/).
 4. ```javascript
    npm install    // install dependencies for project
    ```
-5. Play with any of the available script given below.
+5. Play with any of the available scripts given below.
 
 
 ## Available Scripts
