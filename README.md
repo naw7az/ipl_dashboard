@@ -2,7 +2,7 @@
 
 
 
-### List of all the Libraries/Frameworks used to create this projects.
+### List of all the Libraries/Frameworks used to create this projects
 
 1. **Pandas and Numpy**.
 
@@ -26,7 +26,7 @@
    
    
    
-### Bonus Points.
+### Bonus points in the project
 
 1. **Loading Time Optimization**.
 
