@@ -6,7 +6,7 @@
 
 1. **Pandas and Numpy**.
 
-   - To maipulate the given data and created a new dataframe with all the information needed specifically for the project.
+   - To maipulate the given data and create a new dataframe with all the information needed specifically for the project.
 
 2. **Node.js**
 
