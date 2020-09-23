@@ -1,5 +1,29 @@
 ### The Deployed Version of the app is [here](https://ipl-dash.web.app/).
 
+### List of all the Libraries/Frameworks used to create this projects.
+
+1. **Pandas and Numpy**.
+
+   - To maipulate the given data and created a new dataframe with all the information needed specifically for the project.
+
+2. **Node.js**
+
+   - The Javascript runtime environment is used to have all the required libraries for front end development.
+
+3. **React.js**
+
+   - The front end Javascript framework used to make this project. I don't Know vue.js but ready to learn anytime :)
+   
+4. **Material UI**
+   
+   - Almost everything in this project is displayed inside a Card component which is imported from Material UI.
+   
+5. **Chart.js**
+   
+   - To give a visual representation of the data to the user which provides a better user experience and understanding.
+  
+   
+
 ### General Setup
 
 1. **Fork and clone the project**.
