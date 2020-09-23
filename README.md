@@ -1,4 +1,5 @@
-### The Deployed Version of the app is [here](https://ipl-dash.web.app/).
+#### The Deployed Version of the app is [here](https://ipl-dash.web.app/).
+
 
 
 ### List of all the Libraries/Frameworks used to create this projects.
@@ -24,6 +25,7 @@
    - To give a visual representation of the data to the user which provides a better user experience and understanding.
    
    
+   
 ### Bonus Points.
 
 1. **Loading Time Optimization**.
@@ -40,7 +42,8 @@
 
    - All the data used in the project are stored in a folder and I am not using API request so that the project will run offline as well.
   
-   
+  
+  
 ### General Setup
 
 1. **Fork and clone the project**.
@@ -57,6 +60,7 @@
    npm install    // install dependencies for project
    ```
 5. Play with any of the available scripts given below.
+
 
 
 ## Available Scripts
